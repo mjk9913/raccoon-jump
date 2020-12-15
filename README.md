@@ -1,5 +1,7 @@
 # Racoon Jump Game 
 (Game created by Min Jie, Rock, and Avani using Processing - python)
+
+
 This game consists of a raccoon climbing up between two trees. The objective of the game is to get to the very top of the trees while avoiding being hit by falling coconuts. As the raccoon climbs higher, the coconuts will fall from the sky at a faster rate. The character is able to switch between the right or left walls depending on where the object falls. The final score of the game is determined by how many coins the main character is able to collect before it reaches the top of the trees or before losing all three lives, and the player receives a set amount of additional points if they succeed in reaching the top of the tree/wall.
 
 # Features
