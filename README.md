@@ -17,3 +17,6 @@ This game consists of a raccoon climbing up between two trees. The objective of 
 - Various music during the game: background music and sound effects for when collecting coin, hit by coconut, and switching between trees
 - Different displays depending if player has won or lost round
 - Restart game by clicking on screen
+
+![unnamed](https://user-images.githubusercontent.com/75086132/140200416-aa8a83e7-e1a9-4328-b269-60887c2926ff.jpeg)
+
